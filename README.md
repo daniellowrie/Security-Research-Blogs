@@ -5,7 +5,7 @@
 A list of the best cybersecurity research related blogs.
 ----
 
-![CyberSecurity Research Blogs](https://github.com/user-attachments/assets/59553234-2223-48d0-835b-64dd24d919ca)
+![CyberSecurity Research Blogs(1)](https://github.com/user-attachments/assets/3cc7cb88-29d6-4c0c-be5e-ed2141348256)
 
 
 <br>
