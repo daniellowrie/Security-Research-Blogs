@@ -88,48 +88,67 @@ A list of the best cybersecurity research related blogs.
 <br>
 
 + [Infoblox Threat Intelligence Blog](https://blogs.infoblox.com/category/threat-intelligence/)
-
+  - A leading creator of original DNS threat intelligence through its deep understanding, unique access, and proactive approach to disrupting cybercrime.
+  - They share knowledge with the broader security community by publishing detailed research and releasing indicators on GitHub.
+  - Includes articles on topics such as
+    + Investment scams
+    + Malicious adtech
+    + Phishing
+    + Adversarial GenAI
 <br>
 
-+ [DomainTools Research Blog](https://dti.domaintools.com/#research)
-
++ [DomainTools Research Blog](https://dti.domaintools.com/category/research/)
+  - The research section includes articles on deceptive browser extensions, malware distribution, cybercrime, phishing campaigns, disinformation, and account trafficking.
 <br>
 
 + [Acronis Cyber Protection Center Blog](https://www.acronis.com/en-us/cyber-protection-center/)
-
+  - Provides cyber protection solutions for various users, including service providers, businesses, enterprises, and home users.
+  - The site also provides resources, support, and a partner program to help users and partners in the field of cyber protection.
+  - Features updates and insights on cyberthreats
 <br>
 
 + [DataDog Security Labs](https://securitylabs.datadoghq.com/)
-
+  - Features articles and research on cloud security, emerging threats, and vulnerabilities.
+  - Includes categories for exploring articles on emerging threats, vulnerabilities, research, open-source software, and writing.
 <br>
 
 + [Socket Research Blog](https://socket.dev/blog/category/research)
-
+  - Provides research news and updates, particularly focusing on security issues within various package ecosystems like npm and PyPI.
 <br>
 
 + [ZeroDay Labs](https://zerodaylabs.net/)
   - ZeroDay Labs is an independent publication and gear hub at the intersection of cybersecurity, emerging technology, and ethical exploitation. We publish sharp, real-world insights that go beyond the surface
- 
 <br> 
 
 + [Qualys Vulnerability and Threat Research Blog](https://blog.qualys.com/vulnerabilities-threat-research)
-
+  - Provides insights into cybersecurity, focusing on vulnerabilities, threat analysis, and risk reduction.
+  - It offers resources like the Qualys Detection Score (QDS) to prioritize threats, and emphasizes the importance of understanding real-world risks, patch management, and proactive security strategies.
+  - Discusses specific vulnerabilities, threat actors, and provides guidance on how to mitigate risks.
 <br>
 
 + [ESET We Live Security Blog](https://www.welivesecurity.com/en/eset-research/)
-
+  - Features articles, blog posts, podcasts, white papers, and threat reports on various digital security topics.
 <br>
 
 + [Veracode Threat Research](https://www.veracode.com/blog/?_blog_category=malware%2Cresearch)
-
+  - Focuses on malware and research, offers insights and articles on application security, software security, and related topics.
+  - It provides resources for developers and security professionals to enhance their understanding and practices in securing software.
 <br>
 
 + [ReliaQuest Blog](https://reliaquest.com/blog/)
-
+  - Platform to share its expertise and insights on security operations, threat intelligence, and cybersecurity trends.
+  - Features articles on topics such as...
+    + Threat research
+    + Analyses of various attack campaigns and vulnerabilities
+    + Strategies for improving security operations
+    + Perspectives on the broader cybersecurity landscape
+  - The blog aims to educate and inform security professionals on how to better defend against evolving cyber threats.
 <br>
 
 + [FortiGuard Labs Threat Research](https://www.fortinet.com/blog/threat-research)
-
+  - Provides insights into the latest cybersecurity threats, vulnerabilities, and malware.
+  - It offers analysis of emerging threats, reports on malware campaigns, and research on vulnerabilities in various systems.
+  - Aims to inform security professionals and organizations about potential risks and provides strategies for mitigating them.
 <br>
 
 + Place Holder
