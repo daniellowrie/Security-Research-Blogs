@@ -18,59 +18,73 @@ A list of the best cybersecurity research related blogs.
 
 + [Palo Alto Unit 42](https://unit42.paloaltonetworks.com/)
   - Unit 42 by Palo Alto Networks offers cybersecurity services, threat research, and resources, including incident response, risk management, and intelligence reports.
-
 <br>
 
 + [Cisco Talos Blog](https://blog.talosintelligence.com/)
-
+  - The Cisco Talos blog provides in-depth analysis of the latest cybersecurity threats, vulnerabilities, and malware, offering insights into threat actor activities and defense strategies. It serves as a resource for security professionals seeking to understand and mitigate emerging cyber risks.
 <br>
 
 + [Horizon3.AI](https://horizon3.ai/category/attack-research/)
-
+  - Horizon3.ai's attack research section focuses on providing insights into attack paths and vulnerabilities.
+  - The site offers resources like blogs and webinars, covering topics from credential attacks to ransomware, and provides solutions for compliance and security strategies.
 <br>
 
 + [Black Hills Information Security Blog](https://www.blackhillsinfosec.com/blog/)
-
+  - The BHIS blog offers insights into various cybersecurity topics, including
+    + AI in penetration testing
+    + Mobile application security
+    + Android rooting
+    + Communicating security to executives
+    + Memory forensics
+    + AI hacking
+    + Cyber deception tools.
+  - A GREAT resource for security professionals seeking to enhance their knowledge and skills in diverse areas of cybersecurity.
 <br>
 
 + [Aqua Security Blog](https://www.aquasec.com/blog/)
-
+  - The Aqua Cloud Native Blog provides expert insights and best practices on cloud native security, trends, threat intelligence, and compliance.
 <br>
 
 + [Google Project Zero](https://googleprojectzero.blogspot.com/)
-
+  - The Google Project Zero blog provides news and updates from Google's Project Zero team, including information about the team, working at Project Zero, 0-day vulnerabilities, exploit root cause analyses, and a vulnerability disclosure FAQ.
 <br>
 
 + [Trellix Research Blog](https://www.trellix.com/blogs/research/)
-
+  - Trellix's research blog provides insights into the latest cybersecurity trends, threats, and research, covering topics such as malware analysis, vulnerability disclosures, and threat actor behavior.
+  - Resource for security professionals seeking to stay informed about emerging cyber risks and defense strategies.
 <br> 
 
 + [Sekoia Threat Research & Intelligence](https://blog.sekoia.io/category/threat-research/)
-
+  - Provides cutting-edge insights in CTI and SOC, with articles analyzing threats like ViciousTrap honeypots, Interlock ransomware, and ClearFake malware.
+  - Also covers topics such as multi-stage infection chains, Lazarus ClickFake tactics, and phishing kits targeting Microsoft 365 accounts.
 <br>
 
 + [Huntress Blog](https://www.huntress.com/blog)
-
+  - The Huntress Cybersecurity Blog aims to keep readers informed about cybersecurity advancements and help them stay ahead of hackers.
+  - It offers engaging and accessible cybersecurity research, anaylsis, and education.
 <br>
 
 + [Akamai Security Research Blog](https://www.akamai.com/blog/security-research)
-
+  - Insights and intelligence from the Akamai Security Intelligence Group on the latest cybersecurity research and trends, providing resources and articles on topics like web application security, vulnerability detection, and malware analysis.
+  - Aims to equip defenders with real-world strategies to safeguard their systems and stay informed about emerging threats.
 <br>
 
 + [EclecticIQ Blog](https://blog.eclecticiq.com/)
-
+  - The EclecticIQ Blog's purpose is to empower cyber defenses with threat intelligence. It provides products like Threat Intelligence Platform and Feeds, and resources like a library, use cases, and a learning hub. The site also features a blog with articles on intelligence research and product updates.
 <br>
 
 + [Project Discovery Blog](https://projectdiscovery.io/blog)
-
+  - The ProjectDiscovery blog covers a range of topics relevant to cybersecurity professionals, including vulnerability research, Nuclei templates, vulnerability management, and bug bounty etiquette.
 <br>
 
-+ [Checkpoint Research Blog](https://research.checkpoint.com/)
-
++ [CheckPoint Research Blog](https://research.checkpoint.com/)
+  - CheckPoint Research Blog includes the latest publications, podcast channel, intelligence reports, and resources related to cyber threats, malware research, and AI security.
+  - It also provides tools like Sandblast file analysis and a live cyber threat map.
 <br>
 
 + [c/side Blog](https://cside.dev/blog)
-
+  - Features industry news, insights, and resources, including research on compromised websites and partnerships for PCI compliance, and covers topics such as client-side attacks, data breaches, and security solutions.
+  - It also discusses PCI DSS compliance, offering solutions and insights into meeting its requirements, and highlights various cybersecurity threats and vulnerabilities
 <br>
 
 + [Infoblox Threat Intelligence Blog](https://blogs.infoblox.com/category/threat-intelligence/)
