@@ -93,3 +93,23 @@ A list of the best cybersecurity research related blogs.
 <br> 
 
 + [Qualys Vulnerability and Threat Research Blog](https://blog.qualys.com/vulnerabilities-threat-research)
+
+<br>
+
++ [ESET We Live Security Blog](https://www.welivesecurity.com/en/eset-research/)
+
+<br>
+
++ [Veracode Threat Research](https://www.veracode.com/blog/?_blog_category=malware%2Cresearch)
+
+<br>
+
++ [ReliaQuest Blog](https://reliaquest.com/blog/)
+
+<br>
+
++ [FortiGuard Labs Threat Research](https://www.fortinet.com/blog/threat-research)
+
+<br>
+
++ Place Holder
