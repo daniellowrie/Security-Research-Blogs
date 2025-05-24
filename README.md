@@ -12,10 +12,13 @@ A list of the best cybersecurity research related blogs.
 
 
 + [Watchtowr Labs](https://labs.watchtowr.com/)
+  - watchTowr Labs is the epicentre of offensive security expertise at watchTowr; injecting offensive security insight, innovation and research into the watchTowr Platform.
+  - This blog captures research shared by members of watchTowr Labs.
 
 <br>
 
 + [Palo Alto Unit 42](https://unit42.paloaltonetworks.com/)
+  - Unit 42 by Palo Alto Networks offers cybersecurity services, threat research, and resources, including incident response, risk management, and intelligence reports.
 
 <br>
 
