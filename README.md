@@ -1,4 +1,4 @@
-![CyberSecurity Research Blogs(1)](https://github.com/user-attachments/assets/3cc7cb88-29d6-4c0c-be5e-ed2141348256)
+![CyberSecurity Research Blogs(1)](https://github.com/user-attachments/assets/ae8071d4-b5cd-45ab-9cfc-8110984d7ee5)
 
 # Security Research Blogs
 ####
