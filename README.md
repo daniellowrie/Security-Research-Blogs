@@ -151,4 +151,9 @@ A list of the best cybersecurity research related blogs.
   - Aims to inform security professionals and organizations about potential risks and provides strategies for mitigating them.
 <br>
 
-+ Place Holder
++ [Rhino Security Labs Technical Blog](https://rhinosecuritylabs.com/blog-technical/)
+  - Provides in-depth information on penetration testing, cloud security, and vulnerability research, often focusing on AWS, GCP, and Azure environments.
+  - Includes articles on...
+    + Vulnerabilities
+    + Attack methods
+    + Tools used in penetration testing
