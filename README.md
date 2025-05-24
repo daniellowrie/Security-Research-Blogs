@@ -80,3 +80,16 @@ A list of the best cybersecurity research related blogs.
 <br>
 
 + [DataDog Security Labs](https://securitylabs.datadoghq.com/)
+
+<br>
+
++ [Socket Research Blog](https://socket.dev/blog/category/research)
+
+<br>
+
++ [ZeroDay Labs](https://zerodaylabs.net/)
+  - ZeroDay Labs is an independent publication and gear hub at the intersection of cybersecurity, emerging technology, and ethical exploitation. We publish sharp, real-world insights that go beyond the surface
+ 
+<br> 
+
++ [Qualys Vulnerability and Threat Research Blog](https://blog.qualys.com/vulnerabilities-threat-research)
