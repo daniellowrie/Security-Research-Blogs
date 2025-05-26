@@ -163,4 +163,8 @@ A list of the best cybersecurity research related blogs.
   - Industry News
   - Original Research & Thought Leadership
   - Cyber Security Techniques
+<br>
+
++ [Star Labs Blog](https://starlabs.sg/blog/)
+  - Research articles from many different aspects of cybersecurity vulnerabilities
 
