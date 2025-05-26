@@ -157,3 +157,10 @@ A list of the best cybersecurity research related blogs.
     + Vulnerabilities
     + Attack methods
     + Tools used in penetration testing
+<br>
+
++ [White Knight Labs Blog](https://whiteknightlabs.com/blog)
+  - Industry News
+  - Original Research & Thought Leadership
+  - Cyber Security Techniques
+
